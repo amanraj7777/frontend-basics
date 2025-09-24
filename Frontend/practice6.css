@@ -1,0 +1,20 @@
+div{background-color: antiquewhite;}
+
+#container{background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    }
+    
+a{text-decoration: none;}
+li{list-style-type: none;}
+
+#out{background-color: coral;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+#in{background-color: cornflowerblue;
+    height: 100px;
+    width: 100px;}

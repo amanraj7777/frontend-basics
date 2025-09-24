@@ -1,0 +1,11 @@
+body{text-align: center;}
+div{height: 100px; width: 100px; border: solid; display: inline-block;}
+#container{ height: 200px; width: 800px;
+display: flex;
+flex-direction: column;}
+
+#box1{background-color: aqua;}
+#box2{background-color: red;}
+#box3{background-color: green;}
+#box4{background-color: yellow;}
+#box5{background-color: pink;}
